@@ -1,7 +1,7 @@
 #include<iostream>
 #include "color.h"
 
-
+enum color_t{red, black,white ,blue ,green};
 Colour::invert(Colour & a)
     {
         a.m_b=255-a.m_b;
