@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600319520 source:c:\users\training\documents\assignments\ass1\ass1\ass1\account\account.cpp
+	"Account.h"
+	<string>
+	<iostream>
+
+1600319531 c:\users\training\documents\assignments\ass1\ass1\ass1\account\account.h
+	<string>
+
+1600232064 source:c:\users\training\documents\assignments\ass1\ass1\ass1\account\main.cpp
+	<iostream>
+
